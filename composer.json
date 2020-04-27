@@ -1,5 +1,5 @@
 {
-  "name": "vmware/vcloud-pulsant-sdk",
+  "name": "vmware-pulsant/vcloud-sdk",
   "description": "VMware vCloud SDK for PHP - patched version (Forked from Purple-DBU)",
   "type": "library",
   "keywords": [
