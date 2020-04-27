@@ -21,7 +21,7 @@
     "library/"
   ],
   "require": {
-    "php": "7.3"
+    "php": "^7.3"
   },
   "require-dev": {
     "pear-pear/HTTP_Request2": "2.3.*",
