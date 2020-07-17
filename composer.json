@@ -24,7 +24,7 @@
     "php": "^7.3"
   },
   "require-dev": {
-    "pear-pear/http_request2": "2.3.*",
+    "pear/http_request2": "*",
     "sami/sami": "1.3.0",
     "vmware/vcloud-sdk": "5.5.0"
   }
