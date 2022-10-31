@@ -150,7 +150,7 @@ class VMware_VCloud_API_Helper
         return $out;
     }
 
-    public static function getNamespaceTag($objNS, $name, $defaultNS='', $ugNS='', $rootNS) {
+    public static function getNamespaceTag($objNS, $name, $defaultNS='', $ugNS='', $rootNS='') {
         $ns = '';
         if ($objNS) {
             if (array_key_exists($name, $objNS)) {
